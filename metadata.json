@@ -1,0 +1,5 @@
+{
+  "name": "Copy of VeriScan AI - Plagiarism Checker",
+  "description": "An advanced NLP-powered plagiarism detection system that utilizes the Gemini API with Google Search grounding to verify document originality and identify potential source matches across the web.",
+  "requestFramePermissions": []
+}
